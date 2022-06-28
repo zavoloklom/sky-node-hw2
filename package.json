@@ -1,0 +1,12 @@
+{
+  "name": "sky-node-hw2",
+  "version": "1.0.0",
+  "description": "SkyPro. NodeJS. Homework 6.2",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "",
+    "start": ""
+  },
+  "author": ""
+}
